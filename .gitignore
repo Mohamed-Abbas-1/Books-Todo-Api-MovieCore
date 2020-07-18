@@ -1,0 +1,8 @@
+ContosoUniversitySolution
+BookListMVCSolution
+MineSolution
+bin
+obj
+.vscode
+*.sln
+.vs
